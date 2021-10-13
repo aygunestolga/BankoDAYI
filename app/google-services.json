@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298269720795",
+    "firebase_url": "https://bankodayi-bdca9.firebaseio.com",
+    "project_id": "bankodayi-bdca9",
+    "storage_bucket": "bankodayi-bdca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298269720795:android:313c593a709433b6308cfe",
+        "android_client_info": {
+          "package_name": "com.buntol.bankodayi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298269720795-acmvaa9l3gutr1m9r9cthjjlrviel0b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1Ct3R01wbEtnxSj5Pn22HYzBayhGUD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298269720795-acmvaa9l3gutr1m9r9cthjjlrviel0b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
